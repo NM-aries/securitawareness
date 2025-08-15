@@ -1,0 +1,36 @@
+
+
+1. Fonts
+
+ Heading (“IT AWARENESS 2025”, “STAY CYBER-SAFE IN 2025”) → Likely Montserrat ExtraBold or Oswald Bold (uppercase, tracking +20)
+ Subheading (“SECURE TOMORROW: …”) → Montserrat SemiBold or Open Sans SemiBold
+ Body text → Montserrat Medium or Open Sans Regular
+ Footer (“PTYInfosec”) → Same as heading but bold, with “PTY” in white and “Infosec” in cyan (#00E5FF).
+
+2. Colors (Hex Codes)
+
+ Background: #0B0E2D (deep navy gradient with subtle circuit texture)
+ Cyan accents: #00E5FF (icons, highlights)
+ White text: #FFFFFF
+ Secondary blue text: #44D9FF (optional accent)
+
+3. Icons
+
+ Minimal line icons with stroke weight \~2px, neon cyan glow
+ Styles: envelope, padlock, cloud lock, mobile phone, upload/download
+
+4. Layout
+
+ Top: Title + Subheading, centered
+ Middle: Shield with keyhole, surrounded by icons
+ Below: Two-column safety tips with icons
+ Bottom: Tagline + organization name
+
+
+Here are 5 basic cybersecurity tips you can use for information security awareness:
+
+1. Use Strong, Unique Passwords – Avoid reusing passwords and include a mix of letters, numbers, and symbols.
+2. Enable Multi-Factor Authentication (MFA) – Add an extra layer of security beyond just a password.
+3. Think Before You Click – Be cautious with links and attachments in emails, even if they look legitimate.
+4. Lock Your Devices – Always lock your computer or phone when unattended.
+5. Update Regularly – Keep your operating system and software patched to protect against vulnerabilities.
